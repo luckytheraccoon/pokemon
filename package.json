@@ -1,0 +1,21 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "description": "just pokemon things",
+  "main": "start.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "pokemon"
+  ],
+  "author": "lucas ferreira @ plcferreira1985@gmail.com",
+  "license": "ISC"
+}
